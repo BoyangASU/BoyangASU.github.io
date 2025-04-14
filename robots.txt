@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://boyangxu.github.io/sitemap.xml
+Sitemap: https://BoyangASU.github.io/sitemap.xml
