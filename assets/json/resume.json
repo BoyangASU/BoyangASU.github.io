@@ -8,15 +8,28 @@
   
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Arizona State University",
+      "location": "Tempe, Arizona, USA",
+      "area": "Data Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-09-01",
+      "endDate": "PRESENT"
+    },
+    {
+      "institution": "Northeastern University",
+      "location": "Boston, Massachusetts, USA",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Master",
+      "startDate": "2020-09-01",
+      "endDate": "2022-06-01"
+    },
+    {
+      "institution": "University of Jinan",
+      "location": "Jinan, China",
+      "area": "Optoelectronic Information Science and Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2020-06-01",
+      "endDate": "2016-09-01"
     }
   ],
   "awards": [
